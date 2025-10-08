@@ -1,0 +1,10 @@
+Transfer the azure resources to another uhi account, potentially with an azure free trial ($200 free credit and 12 months of popular free services)
+
+Create an Azure backup vault?
+
+
+possible to make an agnostic/communal uhi account specifically for this project?
+I have moray account but it's tied to my cintra
+
+
+possible way to export the ML model? https://stackoverflow.com/questions/60306240/export-azure-ml-studio-designer-project-as-jupyter-notebook

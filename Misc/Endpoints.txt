@@ -1,0 +1,29 @@
+Endpoints used in the flutter_mb app. 
+(in case of API refactor)
+
+endpoints used
+
+- games/
+	- /available
+	- /rating
+	- /cancelled
+
+- clubs
+	- /search
+	- /namelocation
+	- /search_clubgames
+
+- users/
+	- /user-details
+	- /addId
+	- /mango
+	- /addWalletId
+	- /get mango data
+	- /rating
+	- /preferences
+
+- mangopay/
+	- /create-wallet
+	- walletId
+	- wallet
+

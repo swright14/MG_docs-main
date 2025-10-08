@@ -1,0 +1,47 @@
+Here is a list of predefined users to use the app with so far. I have disabled the sign up feature for now to continue safely developing and also to stop anyone else signing up and accruing more costs from the database.
+johndoe@email.com
+janesmith@email.com
+mikejohnson@email.com
+sarahwilliams@email.com
+chrisbrown@email.com
+emilydavis@email.com
+tomwilson@email.com
+olivialee@email.com
+michaelclark@email.com
+emmataylor@email.com
+
+all passwords are: Password1
+
+For brevity, all the male users are hosts and female users are guests (I accidentally created the dummy data that way).
+
+
+
+
+The database powers down after 15 minutes of no use to avoid unnecessary costs, so to boot it up when you log in you can press on 'My games' or 'Feed', wait until you get an error message like "Client Exception: XML HTTP Request..." and then refresh. You will need to do this a couple of times. 
+After this the database will be running, and clicking between the 'Feed', 'My Games' and 'ML recs' will bring the data into the app properly.
+
+
+The basic functionality includes:
+- Searching courses (and their booked games)
+- Creating a game booking
+- Guests can add themselves to a booked game 
+- Guests can remove themselves from a booked game 
+- Hosts can cancel games
+- Feedback button - 
+- Profile page with editable preferences
+- ML suggested games
+
+
+
+For costs I have the ML pipeline accessible to the app, but it only runs manually on demand for the time being. 
+If there's a time and day you'd like me to schedule it for you can let me know and I will do this from my end.
+
+
+// ignore this for now
+clicking yes releases game cost from company to the game-host wallet
+- Wallet screen can top up and view users wallet balance
+
+For topping up, use this card number '4970107111111119'
+any expiry date in the future, and any 3 digit number for the cvv
+The payment page will eventually timeout but the "payment" should go through.
+**important** the units are in pence, not £ so topping up $10 will look like 1000 in the wallet.
